@@ -1,0 +1,5 @@
+temp
+.venv
+.ocr.py.swp
+boundingbox.py
+contour.py
